@@ -1,4 +1,6 @@
-# 🛡️ SIEM Homelab — Wazuh · Sysmon · Active Directory
+# 🛡️ SIEM Homelab Wazuh · Sysmon · Active Directory
+
+![Wazuh Dashboard](screenshots/networktopology.png)
 
 This repository documents my **SIEM homelab**: a hands-on environment combining **Wazuh** for centralized detection, **Sysmon** for detailed Windows telemetry, and an **Active Directory** domain to emulate a realistic enterprise network.
 
@@ -82,9 +84,7 @@ Full narrative and examples: [Medium Article →](https://medium.com/@cyberxaman
 
 ## 📸 Screenshots / Artifacts
 
-![Wazuh Dashboard](screenshots/wazuh-dashboard.png)
-![Sysmon Event Viewer](screenshots/sysmon-event.png)
-![Active Directory Users](screenshots/ad-users.png)
+![Wazuh Dashboard](screenshots/wazuhdashboard.png)
 
 ---
 
